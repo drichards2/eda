@@ -10,3 +10,5 @@ ProjectPath=Linear_ICs.LibPkg
 ProjectPath=Passives.LibPkg
 [Project5]
 ProjectPath=Semiconductor_Discretes.LibPkg
+[Project6]
+ProjectPath=Electromechanical.LibPkg

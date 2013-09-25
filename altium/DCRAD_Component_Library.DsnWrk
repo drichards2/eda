@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Connectors.LibPkg
+[Project2]
+ProjectPath=Digital_ICs.LibPkg
+[Project3]
+ProjectPath=Linear_ICs.LibPkg
+[Project4]
+ProjectPath=Passives.LibPkg
+[Project5]
+ProjectPath=Semiconductor_Discretes.LibPkg

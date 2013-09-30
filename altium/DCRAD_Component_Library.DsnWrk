@@ -12,3 +12,5 @@ ProjectPath=Passives.LibPkg
 ProjectPath=Semiconductor_Discretes.LibPkg
 [Project6]
 ProjectPath=Electromechanical.LibPkg
+[Project7]
+ProjectPath=MixedSignal.LibPkg

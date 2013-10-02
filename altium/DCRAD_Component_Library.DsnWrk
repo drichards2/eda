@@ -14,3 +14,5 @@ ProjectPath=Semiconductor_Discretes.LibPkg
 ProjectPath=Electromechanical.LibPkg
 [Project7]
 ProjectPath=MixedSignal.LibPkg
+[Project8]
+ProjectPath=Optoelectronics.LibPkg

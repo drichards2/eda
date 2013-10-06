@@ -16,3 +16,5 @@ ProjectPath=Electromechanical.LibPkg
 ProjectPath=MixedSignal.LibPkg
 [Project8]
 ProjectPath=Optoelectronics.LibPkg
+[Project9]
+ProjectPath=Sensors.LibPkg

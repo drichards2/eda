@@ -18,3 +18,5 @@ ProjectPath=MixedSignal.LibPkg
 ProjectPath=Optoelectronics.LibPkg
 [Project9]
 ProjectPath=Sensors.LibPkg
+[Project10]
+ProjectPath=ModuleInterfaces.LibPkg

@@ -20,3 +20,7 @@ ProjectPath=Optoelectronics.LibPkg
 ProjectPath=Sensors.LibPkg
 [Project10]
 ProjectPath=ModuleInterfaces.LibPkg
+[Project11]
+ProjectPath=CircuitProtection.LibPkg
+[Project12]
+ProjectPath=ElectronicSwitches.LibPkg

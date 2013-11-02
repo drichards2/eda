@@ -24,3 +24,5 @@ ProjectPath=ModuleInterfaces.LibPkg
 ProjectPath=CircuitProtection.LibPkg
 [Project12]
 ProjectPath=ElectronicSwitches.LibPkg
+[Project13]
+ProjectPath=Transformers.LibPkg
